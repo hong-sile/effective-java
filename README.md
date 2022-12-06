@@ -11,4 +11,4 @@
 1. [Static Factory Method](https://github.com/hong-sile/effective-java/blob/master/chapter2/StaticFactoryMethod.java)
 2. [Builder Pattern](https://github.com/hong-sile/effective-java/blob/master/chapter2/BuilderPattern.java)
 3. [Singleton](https://github.com/hong-sile/effective-java/blob/master/chapter2/singleton)
-4. [Private Constructor](https://github.com/hong-sile/effective-java/blob/master/chapter2/PrivateConstructor.java)
+4. [Private Constructor](https://github.com/hong-sile/effective-java/blob/master/chapter2/PrivateConstructorUtility.java)
