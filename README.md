@@ -14,6 +14,7 @@
 3. [private 생성자나 enum 생성자를 상요해서 싱글톤의 특성을 유지하자.](https://github.com/hong-sile/effective-java/blob/master/chapter2/singleton)
 4. [private 생성자를 사용해서 인스턴스를 생성하지 못하게 하자.](https://github.com/hong-sile/effective-java/blob/master/chapter2/PrivateConstructorUtility.java)
 5. [불필요한 객체의 생성을 피하자](https://github.com/hong-sile/effective-java/blob/master/chapter2/avoid_create_unnecessary_object)
+6. [쓸모 없는 객체의 참조를 제거하자](https://github.com/hong-sile/effective-java/blob/master/chapter2/remove_unnecessary_object_reference)
 
 ---
 
